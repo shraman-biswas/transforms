@@ -29,6 +29,6 @@ Discrete Fourier Transform (DFT) features:
 Discrete Fourier Transform (DFT) parameters:
 * mode selection (DFT or IDFT)
 * number of input data points (N)
-* signal data points (N points)
+* input signal data (N points)
 * DFT real component result
 * DFT imaginary component result
