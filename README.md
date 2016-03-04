@@ -6,7 +6,7 @@ DFT results are produced and plotted in terms of real and imaginary components.
 DFT magnitude and phase components are also calculated and plotted.  
 Signal generation produces specified signal type with specified parameters.  
 Generated signal is plotted as well.  
-Uses plplot for plotting.
+Uses the PLplot C library for plotting.
 
 Signal generation features:
 * sinusoid generation
