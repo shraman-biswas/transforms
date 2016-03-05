@@ -32,3 +32,16 @@ Discrete Fourier Transform (DFT) parameters:
 * input signal data (N points)
 * DFT real component result
 * DFT imaginary component result
+
+Usage: ./main sigtype frequency phase/shift amplitude  
+&nbsp;&nbsp;
+sigtype: signal type (0=sinusoid, 1=square, 2=ramp, 3=impulse)  
+&nbsp;&nbsp;
+frequency: frequency of signal (Hz)  
+&nbsp;&nbsp;
+phase: phase of sinusoid signal (degrees)  
+&nbsp;&nbsp;
+shift: shift of non-sinusoid signal  
+&nbsp;&nbsp;
+amplitude: amplitude of signal
+
